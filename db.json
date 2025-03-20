@@ -1,0 +1,140 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Koenigsegg",
+      "category": "Sport",
+      "fuelCapacity": 90,
+      "transmission": "Manual",
+      "seats": 2,
+      "pricePerDay": 99.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/koenigsegg.png",
+      "isFavorite": true
+    },
+    {
+      "id": 2,
+      "name": "Nissan GT-R",
+      "category": "Sport",
+      "fuelCapacity": 80,
+      "transmission": "Manual",
+      "seats": 2,
+      "pricePerDay": 80.0,
+      "oldPrice": 100.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/nissan_gt_r_1.png",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Rolls-Royce",
+      "category": "Sedan",
+      "fuelCapacity": 70,
+      "transmission": "Manual",
+      "seats": 4,
+      "pricePerDay": 96.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/rolls_royce.png",
+      "isFavorite": true
+    },
+    {
+      "id": 4,
+      "name": "All New Rush",
+      "category": "SUV",
+      "fuelCapacity": 70,
+      "transmission": "Manual",
+      "seats": 6,
+      "pricePerDay": 72.0,
+      "oldPrice": 80.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/all_new_rush.png",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "CR-V",
+      "category": "SUV",
+      "fuelCapacity": 80,
+      "transmission": "Manual",
+      "seats": 6,
+      "pricePerDay": 80.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/cr_v_brown.png",
+      "isFavorite": true
+    },
+    {
+      "id": 6,
+      "name": "All New Terios",
+      "category": "SUV",
+      "fuelCapacity": 90,
+      "transmission": "Manual",
+      "seats": 6,
+      "pricePerDay": 74.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/all_new_terios.png",
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "name": "CR-V",
+      "category": "SUV",
+      "fuelCapacity": 80,
+      "transmission": "Manual",
+      "seats": 6,
+      "pricePerDay": 80.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/cr_v_black.png",
+      "isFavorite": true
+    },
+    {
+      "id": 8,
+      "name": "MG ZX Exclusive",
+      "category": "Hatchback",
+      "fuelCapacity": 70,
+      "transmission": "Manual",
+      "seats": 4,
+      "pricePerDay": 76.0,
+      "oldPrice": 80.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/mg_zx_exclusive_1.png",
+      "isFavorite": true
+    },
+    {
+      "id": 9,
+      "name": "MG ZX Exclusive",
+      "category": "Hatchback",
+      "fuelCapacity": 70,
+      "transmission": "Manual",
+      "seats": 4,
+      "pricePerDay": 76.0,
+      "oldPrice": 80.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/mg_zx_exclusive_2.png",
+      "isFavorite": true
+    },
+    {
+      "id": 10,
+      "name": "New MG ZS",
+      "category": "SUV",
+      "fuelCapacity": 80,
+      "transmission": "Manual",
+      "seats": 6,
+      "pricePerDay": 80.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/new_mg_zs_1.png",
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "name": "New MG ZS",
+      "category": "SUV",
+      "fuelCapacity": 80,
+      "transmission": "Manual",
+      "seats": 6,
+      "pricePerDay": 80.0,
+      "currency": "USD",
+      "imageUrl": "path_to_image/new_mg_zs_2.png",
+      "isFavorite": false
+    }
+  ]
+}
