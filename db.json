@@ -9,7 +9,7 @@
       "seats": 2,
       "pricePerDay": 99.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/koenigsegg.png",
+      "imageUrl": "https://i.ibb.co/XZ36G4QR/Koenigsegg.png",
       "isFavorite": true
     },
     {
@@ -22,7 +22,7 @@
       "pricePerDay": 80.0,
       "oldPrice": 100.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/nissan_gt_r_1.png",
+      "imageUrl": "https://i.ibb.co/VYDTZctk/Nissan-Gt.png",
       "isFavorite": false
     },
     {
@@ -34,7 +34,7 @@
       "seats": 4,
       "pricePerDay": 96.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/rolls_royce.png",
+      "imageUrl": "https://i.ibb.co/NgCkw37S/Rolls-Royce.png",
       "isFavorite": true
     },
     {
@@ -47,7 +47,7 @@
       "pricePerDay": 72.0,
       "oldPrice": 80.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/all_new_rush.png",
+      "imageUrl": "https://i.ibb.co/s986WrqP/All-New-Rush.png",
       "isFavorite": false
     },
     {
@@ -59,7 +59,7 @@
       "seats": 6,
       "pricePerDay": 80.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/cr_v_brown.png",
+      "imageUrl": "https://i.ibb.co/xNqC6hH/CR-V.png",
       "isFavorite": true
     },
     {
@@ -71,7 +71,7 @@
       "seats": 6,
       "pricePerDay": 74.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/all_new_terios.png",
+      "imageUrl": "https://i.ibb.co/rRxP46tn/All-New-Terios.png",
       "isFavorite": false
     },
     {
@@ -83,7 +83,7 @@
       "seats": 6,
       "pricePerDay": 80.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/cr_v_black.png",
+      "imageUrl": "https://i.ibb.co/9H9hvRGb/CR-V.png",
       "isFavorite": true
     },
     {
@@ -96,7 +96,7 @@
       "pricePerDay": 76.0,
       "oldPrice": 80.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/mg_zx_exclusive_1.png",
+      "imageUrl": "https://i.ibb.co/ztm3Rpc/MG-ZX-Excite-tw.png",
       "isFavorite": true
     },
     {
@@ -109,7 +109,7 @@
       "pricePerDay": 76.0,
       "oldPrice": 80.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/mg_zx_exclusive_2.png",
+      "imageUrl": "https://i.ibb.co/ztm3Rpc/MG-ZX-Excite-tw.png",
       "isFavorite": true
     },
     {
@@ -121,7 +121,7 @@
       "seats": 6,
       "pricePerDay": 80.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/new_mg_zs_1.png",
+      "imageUrl": "https://i.ibb.co/x4Z7fBz/New-MG-ZS.png",
       "isFavorite": false
     },
     {
@@ -133,7 +133,20 @@
       "seats": 6,
       "pricePerDay": 80.0,
       "currency": "USD",
-      "imageUrl": "path_to_image/new_mg_zs_2.png",
+      "imageUrl": "https://i.ibb.co/x4Z7fBz/New-MG-ZS.png",
+      "isFavorite": false
+    },
+     {
+      "id": 12,
+      "name": "Nissan GT-R",
+      "category": "Sport",
+      "fuelCapacity": 80,
+      "transmission": "Manual",
+      "seats": 2,
+      "pricePerDay": 80.0,
+      "oldPrice": 100.0,
+      "currency": "USD",
+      "imageUrl": "https://i.ibb.co/VYDTZctk/Nissan-Gt.png",
       "isFavorite": false
     }
   ]
